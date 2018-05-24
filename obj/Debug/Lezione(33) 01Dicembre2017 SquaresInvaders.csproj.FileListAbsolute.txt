@@ -1,0 +1,8 @@
+C:\Users\tommaso\source\repos\Lezione(33) 01Dicembre2017 SquaresInvaders\Lezione(33) 01Dicembre2017 SquaresInvaders\obj\Debug\Lezione(33) 01Dicembre2017 SquaresInvaders.csprojResolveAssemblyReference.cache
+C:\Users\tommaso\source\repos\Lezione(33) 01Dicembre2017 SquaresInvaders\Lezione(33) 01Dicembre2017 SquaresInvaders\obj\Debug\Lezione(33) 01Dicembre2017 SquaresInvaders.csproj.CoreCompileInputs.cache
+C:\Users\tommaso\source\repos\Lezione(33) 01Dicembre2017 SquaresInvaders\Lezione(33) 01Dicembre2017 SquaresInvaders\bin\Debug\Lezione(33) 01Dicembre2017 SquaresInvaders.exe.config
+C:\Users\tommaso\source\repos\Lezione(33) 01Dicembre2017 SquaresInvaders\Lezione(33) 01Dicembre2017 SquaresInvaders\bin\Debug\Lezione(33) 01Dicembre2017 SquaresInvaders.exe
+C:\Users\tommaso\source\repos\Lezione(33) 01Dicembre2017 SquaresInvaders\Lezione(33) 01Dicembre2017 SquaresInvaders\bin\Debug\Lezione(33) 01Dicembre2017 SquaresInvaders.pdb
+C:\Users\tommaso\source\repos\Lezione(33) 01Dicembre2017 SquaresInvaders\Lezione(33) 01Dicembre2017 SquaresInvaders\bin\Debug\AivDraw.dll
+C:\Users\tommaso\source\repos\Lezione(33) 01Dicembre2017 SquaresInvaders\Lezione(33) 01Dicembre2017 SquaresInvaders\obj\Debug\Lezione(33) 01Dicembre2017 SquaresInvaders.exe
+C:\Users\tommaso\source\repos\Lezione(33) 01Dicembre2017 SquaresInvaders\Lezione(33) 01Dicembre2017 SquaresInvaders\obj\Debug\Lezione(33) 01Dicembre2017 SquaresInvaders.pdb
